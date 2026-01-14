@@ -1,0 +1,3 @@
+is-lac-0001.is.ed.ac.uk - - [25/Nov/2014:09:54:01 +0000] "GET / HTTP/1.1" 200 10392
+is-lac-0001.is.ed.ac.uk - - [25/Nov/2014:09:54:03 +0000] "GET /documentation/index.html HTTP/1.1" 200 8897
+is-lac-0001.is.ed.ac.uk - - [25/Nov/2014:09:54:05 +0000] "GET /training/manuals.html HTTP/1.1" 200 31152

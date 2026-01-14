@@ -1,0 +1,6 @@
+[Wed Feb 11 13:36:08 2015] [error] [client 129.215.250.34] File does not exist: /data/d3/Sysweb/favicon.ico
+[Wed Feb 11 13:36:08 2015] [error] [client 129.215.250.34] File does not exist: /data/d3/Sysweb/favicon.ico
+[Thu Feb 12 10:20:29 2015] [error] [client 129.215.249.202] client denied by server configuration: /data/d3/Sysweb/training/manuals.html
+[Thu Feb 12 10:20:29 2015] [error] [client 129.215.249.202] client denied by server configuration: /data/d3/Sysweb/favicon.ico
+[Thu Feb 12 10:20:29 2015] [error] [client 129.215.249.202] client denied by server configuration: /data/d3/Sysweb/favicon.ico
+[Fri Feb 13 09:53:19 2015] [error] [client 129.215.248.209] client denied by server configuration: /data/d3/Sysweb/training/manuals.html

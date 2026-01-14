@@ -1,0 +1,147 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Support</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#663399" vlink="#0066FF" alink="#FF0000">
+<table width="100%" border="0" cellspacing="0" cellpadding="10" height="166">
+  <tr> 
+    <td bgcolor="#000000" height="45" width="56%" align="left" valign="top"> 
+      <div align="left"> 
+        <p><a href="../index.html"><img src="../graphics/logosmall.jpg" width="200" height="50" alt="Sysweb Logo" border="0"></a></p>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif"><img src="../graphics/bar.jpg" width="300" height="23" usemap="#Map" border="0"></font></p>
+      </div>
+    </td>
+    <td bgcolor="#000000" height="45" width="44%"> 
+      <div align="right"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Search 
+        this site</b></font> </div>
+      <form name="form1" method="post" action="">
+        <div align="right"> <font face="Verdana, Arial, Helvetica, sans-serif"> 
+          <input type="text" name="textfield">
+          </font></div>
+      </form>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#000000" height="2" colspan="2"><font color="#FFFFFF"><b><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+        <param name="BASE" value=".">
+        <param name=movie value="../support2/button1.swf">
+        <param name=quality value=high>
+        <param name="BGCOLOR" value="">
+        <embed src="../support2/button1.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="" base=".">
+        </embed> 
+      </object><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+        <param name="BASE" value=".">
+        <param name=movie value="../support2/button2.swf">
+        <param name=quality value=high>
+        <param name="BGCOLOR" value="">
+        <embed src="../support2/button2.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="" base=".">
+        </embed> 
+      </object><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+        <param name="BASE" value=".">
+        <param name=movie value="../support2/button3.swf">
+        <param name=quality value=high>
+        <param name="BGCOLOR" value="">
+        <embed src="../support2/button3.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="" base=".">
+        </embed> 
+      </object><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+        <param name="BASE" value=".">
+        <param name=movie value="../support2/button4.swf">
+        <param name=quality value=high>
+        <param name="BGCOLOR" value="">
+        <embed src="../support2/button4.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="" base=".">
+        </embed> 
+      </object><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+        <param name="BASE" value=".">
+        <param name=movie value="../support2/button5.swf">
+        <param name=quality value=high>
+        <param name="BGCOLOR" value="">
+        <embed src="../support2/button5.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="" base=".">
+        </embed> 
+      </object><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+        <param name="BASE" value=".">
+        <param name=movie value="../support2/button6.swf">
+        <param name=quality value=high>
+        <param name="BGCOLOR" value="">
+        <embed src="../support2/button6.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="" base=".">
+        </embed> 
+      </object><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+        <param name="BASE" value=".">
+        <param name=movie value="../support2/button7.swf">
+        <param name=quality value=high>
+        <param name="BGCOLOR" value="">
+        <embed src="../support2/button7.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="" base=".">
+        </embed> 
+      </object></b></font></td>
+  </tr>
+</table>
+
+
+<!-- #BeginEditable "text" -->
+<table width="100%" border="0" cellspacing="1" cellpadding="10" height="58">
+  <tr> 
+    <td height="27" bgcolor="#000099" width="79%"> 
+      <h1><font face="Verdana, Arial, Helvetica, sans-serif" color="#00CCFF">SUPPORT</font></h1>
+    </td>
+    <td width="21%" rowspan="2" bgcolor="#000099" align="left" valign="top"> 
+      <div align="left"> 
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FFFFFF"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+            <param name=movie value="../support2/button10.swf">
+            <param name=quality value=high>
+            <param name="BASE" value=".">
+            <param name="BGCOLOR" value="">
+            <embed src="../support2/button10.swf" base="."  quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="">
+            </embed> 
+          </object></font></p>
+        <p><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="3"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+            <param name="BASE" value=".">
+            <param name=movie value="../support2/button11.swf">
+            <param name=quality value=high>
+            <param name="BGCOLOR" value="">
+            <embed src="../support2/button11.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="" base=".">
+            </embed> 
+          </object></font></p>
+        <p><b><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="100" height="22">
+            <param name=movie value="../support2/button12.swf">
+            <param name=quality value=high>
+            <param name="BASE" value=".">
+            <param name="BGCOLOR" value="">
+            <embed src="../support2/button12.swf" base="."  quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="100" height="22" bgcolor="">
+            </embed> 
+          </object></b></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td height="45" align="left" valign="top" width="79%"> 
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000000">These 
+        are the pages provided solely for Systems Staff. You will find the following 
+        items:</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000000"><a href="../support2/document/index.html">Documentation</a><br>
+        This incorporates all department internal training document. These files 
+        have been converted into PDF format and will be withdrawn from the current 
+        location as soon as possible (N:\). We have also provided internal forms 
+        such as &quot;Equipment Registration&quot;, &quot;Hardware Fault Reporting&quot; 
+        etc as PDFs. </font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000000"><a href="../support2/drivers/index.html">Drivers</a><br>
+        All drivers for the Common Desktop should appear here although we have 
+        only incorporated around 70% at the moment.</font></p>
+      <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000000"><a href="../support2/software/index.html">Software</a><br>
+        You can download useful programs here such as the latest web browser and 
+        several media viewers.</font></p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+<!-- #EndEditable -->
+<map name="Map">
+  <area shape="rect" coords="-1,-1,114,20" href="http://www.intranet.lib.ed.ac.uk/">
+  <area shape="rect" coords="121,-4,235,20" href="http://www.lib.ed.ac.uk/">
+  <area shape="rect" coords="243,-7,301,19" href="http://www.ed.ac.uk/">
+</map>
+</body>
+</html>

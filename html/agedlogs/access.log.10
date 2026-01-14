@@ -1,0 +1,4 @@
+is-lac-0001.is.ed.ac.uk - - [04/Dec/2014:09:50:51 +0000] "GET /training/manuals.html HTTP/1.1" 200 31152
+is-lac-0001.is.ed.ac.uk - - [04/Dec/2014:09:50:51 +0000] "GET /graphics/bar.jpg HTTP/1.1" 200 6892
+is-lac-0001.is.ed.ac.uk - - [04/Dec/2014:09:50:51 +0000] "GET /graphics/logosmall.jpg HTTP/1.1" 200 8747
+is-lac-0001.is.ed.ac.uk - - [04/Dec/2014:09:51:00 +0000] "GET /documentation/voy821/Technical.pdf HTTP/1.1" 200 5609240

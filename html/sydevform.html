@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+            "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<head>
+<title>Log a Development Request</title>
+<meta name="Description"
+      content="development request">
+<meta name="Keywords"
+      content="helpdesk, development, request, hardware, order, form, software, project, projects, support">
+
+<body bgcolor="#FFFFFF" text="#000000">
+<h2><font face="Verdana, Arial, Helvetica, sans-serif">Log a Development Request</font></h2>
+<font face="Verdana, Arial, Helvetica, sans-serif"> <strong><font size="2">You 
+can submit a Development Request via Sysweb. Fill in your details below: </font></strong></font> 
+<FORM ACTION="http://www.ed.ac.uk/cgi-bin/form.cgi" METHOD=POST>
+
+<!--    The next bit is important for sending the message correctly.
+        Dont change the case of Postparameter
+        The VALUE field is split over 3 lines each of which is
+        subfield=value (these are for the e-mail program).
+ -->
+
+<INPUT TYPE="hidden" NAME="Postparameter"
+VALUE="mail=systems.development@ed.ac.uk"
+subject=Helpdesk Call
+title=Helpdesk">
+<CENTER>
+    <TABLE CELLPADDING=5 BORDER=1 width="478" bordercolor="#FFCC00">
+      <TR>
+    <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Name:</FONT>
+    </TD>
+    <TD>
+        <INPUT TYPE=TEXT SIZE=50 NAME="NAME">
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>E-Mail Address:</FONT>
+    </TD>
+    <TD>
+        <INPUT TYPE=TEXT SIZE=50 NAME="USERS EMAIL ADDRESS IS">
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Department:</FONT>
+    </TD>
+    <TD>
+        <INPUT TYPE=TEXT SIZE=50 NAME="USER WORKS IN">
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Library:</FONT>
+    </TD>
+    <TD>
+        <SELECT NAME="I AM AT THE FOLLOW LIBRARY">
+        <OPTION>Agriculture
+        <OPTION>Artificial Intelligence
+        <OPTION>Centre for Tropical Veterinary Medicine
+        <OPTION>Chemistry
+        <OPTION>Darwin
+        <OPTION>Drummond
+        <OPTION>Easter Bush Veterinary Centre
+        <OPTION>Erskine Medical
+        <OPTION>Geology and Geophysics
+        <OPTION>James Clerk Maxwell
+        <OPTION>Law & Europa Library
+        <OPTION>Main Library
+        <OPTION>Moray House - Holyrood
+        <OPTION>Moray House - Cramond
+        <OPTION>New College
+        <OPTION>Psychiatry
+        <OPTION>Reid Music
+        <OPTION>Robertson Engineering and Science
+        <OPTION>Royal Hospital for Sick Children
+        <OPTION>Royal Infirmary Postgraduate
+        <OPTION>Western General Hospital
+        <OPTION>Scottish Studies
+        <OPTION>Veterinary
+        </SELECT>
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Date Required By</FONT>
+    </TD>
+    <TD>
+        <INPUT TYPE=TEXT SIZE=30 NAME="REQUIRED BY DATE">
+    </TD>
+</TR>
+
+
+
+<TR>
+    <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Type of<BR>Development?:</FONT>
+    </TD>
+    <TD>
+        <SELECT NAME="THE DEVELOPMENT TYPE IS">
+        <OPTION>Enhancement to existing service. 
+        <OPTION>Request for new service
+        <OPTION>Request for information.
+        <OPTION>Request for equipment.
+        </SELECT>
+          <p>
+            <SELECT NAME="THE DEVELOPMENT TYPE IS">
+              <OPTION>
+            </SELECT>
+          </p>
+          <p>
+            <SELECT NAME="THE DEVELOPMENT TYPE IS">
+              <OPTION> policy information. 
+            </SELECT>
+          </p>
+
+    </TD>
+</TR>
+
+<TR>
+        <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Enter Full<BR>Description<BR>Development</FONT>
+        </TD>
+        <TD>
+        <TEXTAREA NAME="DESCRIPTION OF REQUEST" ROWS=8 COLS=50></TEXTAREA>
+        </TD>
+</TR>
+
+<TR>
+        <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Enter The<BR>Reason for<BR>Development</FONT>
+        </TD>
+        <TD>
+        <TEXTAREA NAME="JUSTIFICATION" ROWS=8 COLS=50></TEXTAREA>
+        </TD>
+</TR>
+
+<TR>
+   <TD>
+        <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Click Choice</FONT> 
+        <FONT SIZE=2 COLOR="red" FACE=ARIAL>>>>>>></FONT>
+   </TD>
+   <TD><CENTER>
+        <INPUT TYPE=SUBMIT VALUE="Submit">
+        <INPUT TYPE=RESET  VALUE="Don't Send">
+        </CENTER>
+   </TD>
+</TR>
+
+</TABLE>
+</CENTER>
+<BR>
+  <font size="4" color="RED">Click the "Back" button on your browser to return!</font> 
+</FORM>
+</body>
+</html>

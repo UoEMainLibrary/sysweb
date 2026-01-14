@@ -1,0 +1,40 @@
+body {
+  background-color: #73C6B6;
+}
+
+
+h1 {
+  font-family: sans-serif;
+  font-size: 40pt;
+  text-align: center;
+  padding: 50px;
+  margin-top: 0px;
+  color: white;
+  background-color: #138D75;
+}
+
+.form {
+  background-color: #73C6B6;
+  padding: 2%;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+input {
+  width: 65%;
+}
+
+input[type="submit"] {
+  padding: 2%;
+  background-color: #138D75;
+  font-size: 16pt;
+}
+
+/*output {
+  width: 50%;
+}*/
+
+div[id="resultsBox"] {
+  font-size: 18pt;
+  color: red;
+}

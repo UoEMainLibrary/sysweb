@@ -1,0 +1,129 @@
+<HTML>
+<HEAD>
+<TITLE>Book The Laptop</TITLE>
+</HEAD>
+<BODY BACKGROUND="../graphics/backy1.gif" LINK="#FFFFFF" VLINK="#FFFFFF">
+
+
+
+<CENTER>
+<!--#include virtual="/Sysweb/includes/menubar.htm" -->
+</CENTER>
+
+
+
+<BR>
+
+
+<CENTER>
+<FONT SIZE=5 COLOR="#CC0000" FACE=ARIAL>Book The Laptop!</FONT>
+</CENTRE>
+<BR>
+<BR>
+
+<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>
+
+
+<BR>
+
+<BR>
+The Systems Department currently have a laptop available for home use by staff members. <BR>
+The laptop is pre-loaded with Windows 3.1 and Microsoft office.  Please submit the form <BR>
+below if you require to use the laptop.  Your booking will be displayed as soon <BR>
+as it is logged!
+
+
+<FORM ACTION="http://www.ed.ac.uk/cgi-bin/form.cgi" METHOD=POST>
+
+<!--	The next bit is important for sending the message correctly.
+	Dont change the case of Postparameter
+	The VALUE field is split over 3 lines each of which is
+	subfield=value (these are for the e-mail program).
+ -->
+
+<INPUT TYPE="hidden" NAME="Postparameter"
+VALUE="mail=Keith.Matheson@ed.ac.uk"
+subject=Book Laptop
+title=Book Laptop">
+
+<TABLE CELLPADDING=5 BGCOLOR="#FFFF66" BORDER=1>
+
+<TR>
+    <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Name:</FONT>
+    </TD>
+    <TD>
+	<INPUT TYPE=TEXT SIZE=50 NAME=NAME>
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>E-Mail Address:</FONT>
+    </TD>
+    <TD>
+	<INPUT TYPE=TEXT SIZE=50 NAME=EMAIL>
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Department:</FONT>
+    </TD>
+    <TD>
+	<INPUT TYPE=TEXT SIZE=50 NAME=DEPT>
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Date Required:</FONT>
+    </TD>
+    <TD>
+	<INPUT TYPE=TEXT SIZE=50 NAME=DATEREQ>
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Date To Return:</FONT>
+    </TD>
+    <TD>
+	<INPUT TYPE=TEXT SIZE=50 NAME=DATERET>
+    </TD>
+</TR>
+
+<TR>
+    <TD VALIGN=TOP>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Any Additional Comments:</FONT>
+    </TD>
+    <TD>
+	<TEXTAREA NAME=COMMENT ROWS=5 COLS=50></TEXTAREA>
+    </TD>
+</TR>
+
+<TR>
+   <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Click Choice</FONT> 
+	<FONT SIZE=2 COLOR="red" FACE=ARIAL>>>>>>></FONT>
+   </TD>
+   <TD><CENTER>
+	<INPUT TYPE=SUBMIT VALUE="Submit">
+	<INPUT TYPE=RESET  VALUE="Don't Send">
+	</CENTER>
+   </TD>
+</TR>
+
+</TABLE>
+<BR>
+<FONT SIZE=5 COLOR="RED" FACE=ARIAL>Click the "Back" button on your browser to return!</FONT>
+
+</FORM>
+
+
+
+
+
+
+
+</BODY>

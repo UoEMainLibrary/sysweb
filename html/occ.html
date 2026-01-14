@@ -1,0 +1,60 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>
+Occupancy
+</title>
+<script
+			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			  crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+<style>
+#circle {
+  text-align: center;
+  height: 256px;
+  width: 256px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+  color: white;
+}
+#arrow {
+	font-size: 128px;
+	padding-top: 32px;
+}
+#level {
+	padding-top: 32px;
+	font-size: 30px;
+	text-transform: uppercase;
+	font-family: Verdana, sans-serif;
+}
+</style>
+</head>
+<body onload="myJSON()">
+<div id="circle">
+<span class="" id="arrow"></span><br>
+<span id="level"></span>
+</div>
+<div>
+<script>
+//console.log("butter");
+function myJSON() {
+$.getJSON( "MainLibrary.json", function(occ) {
+//console.log(occ['Occupancy']['Level']);
+var location = occ['Occupancy']['Location'];
+var date = occ['Occupancy']['Date'];
+var time = occ['Occupancy']['Time'];
+var threshold = occ['Occupancy']['Threshold'];
+if (threshold === "amber") { threshold = "#FFC200";}
+var level = occ['Occupancy']['Level'];
+document.getElementById("level").innerHTML = level;
+circle.style.backgroundColor = threshold;
+if (level === "increasing") { document.getElementById("arrow").className="fa fa-arrow-up";}
+if (level === "decreasing") { document.getElementById("arrow").className="fa fa-arrow-down";}
+if (level === "stable") { document.getElementById("arrow").className="fa fa-sort";}
+});
+}
+</script>
+</body>
+</html>

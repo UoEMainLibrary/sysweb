@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+            "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<head>
+<title>Feedback and Comments</title>
+<meta name="Description"
+      content="please send us your comments">
+<meta name="Keywords"
+      content="form, forms, suggestions, comments, contact us, feedback">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<h3><font face="Verdana, Arial, Helvetica, sans-serif">Suggestions</font> <BR>
+  <BR>
+  <strong><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Enter your 
+  comments or suggestions in the form below: </font></strong> </h3>
+<FORM ACTION="http://www.ed.ac.uk/cgi-bin/form.cgi" METHOD=POST>
+
+<!--	The next bit is important for sending the message correctly.
+	Dont change the case of Postparameter
+	The VALUE field is split over 3 lines each of which is
+	subfield=value (these are for the e-mail program).
+ -->
+
+<INPUT TYPE="hidden" NAME="Postparameter"
+VALUE="mail=eul.systems.development@ed.ac.uk"
+subject=Comments and Suggestions
+title=Comments">
+
+  <TABLE CELLPADDING=5 BGCOLOR="#FFFFFF" BORDER=1 bordercolor="#FFCC00">
+    <TR>
+    <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Name:</FONT>
+    </TD>
+    <TD>
+	<INPUT TYPE=TEXT SIZE=50 NAME=NAME>
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>E-Mail Address:</FONT>
+    </TD>
+    <TD>
+	<INPUT TYPE=TEXT SIZE=50 NAME=EMAIL>
+    </TD>
+</TR>
+
+<TR>
+      <TD height="17"> <FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Department:</FONT> 
+      </TD>
+      <TD height="17"> 
+        <INPUT TYPE=TEXT SIZE=50 NAME=DEPT>
+    </TD>
+</TR>
+
+<TR>
+    <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Type of Comment?:</FONT>
+    </TD>
+    <TD>
+	<INPUT TYPE=RADIO NAME=TYPE VALUE=Design>Design
+	<INPUT TYPE=RADIO NAME=TYPE VALUE=Content>Content
+	<INPUT TYPE=RADIO NAME=TYPE VALUE=Fault>Fault
+	<INPUT TYPE=RADIO NAME=TYPE VALUE=Future>Future Topic
+	<INPUT TYPE=RADIO NAME=TYPE VALUE=Other>Other
+    </TD>
+</TR>
+
+
+<TR>
+    <TD VALIGN=TOP>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Enter Comment:</FONT>
+    </TD>
+    <TD>
+	<TEXTAREA NAME=COMMENT ROWS=5 COLS=50></TEXTAREA>
+    </TD>
+</TR>
+
+<TR>
+   <TD>
+	<FONT SIZE=4 COLOR="BLACK" FACE=ARIAL>Click Choice</FONT> 
+	<FONT SIZE=2 COLOR="red" FACE=ARIAL>>>>>>></FONT>
+   </TD>
+   <TD><CENTER>
+	      <INPUT TYPE=SUBMIT VALUE="Submit" name="Submit">
+	      <INPUT TYPE=RESET  VALUE="Don't Send" name="Reset">
+	</CENTER>
+   </TD>
+</TR>
+
+</TABLE>
+
+
+
+</FORM>

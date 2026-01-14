@@ -1,0 +1,89 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Systems Homepage</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#663399" vlink="#0066ff" alink="#FF0000">
+<table width="100%" border="0" cellspacing="1" cellpadding="10" height="69">
+  <tr> 
+    <td bgcolor="#000000" height="38" width="56%" align="left" valign="top"> 
+      <div align="left"> 
+        <p><img src="file:///K|/Systems/sysweb/graphics/logo.jpg" width="280" height="70" alt="Sysweb Logo"></p>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif"><img src="file:///K|/Systems/sysweb/graphics/bar.jpg" width="300" height="23" usemap="#Map2" border="0"></font></p>
+      </div>
+    </td>
+    <td bgcolor="#000000" height="38" width="44%"> 
+      <div align="right"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Search 
+        this site<br>
+        </b></font> </div>
+      <form name="form1" method="post" action="">
+        <div align="right"> <font face="Verdana, Arial, Helvetica, sans-serif"> 
+          <input type="text" name="textfield">
+          </font></div>
+      </form>
+    </td>
+  </tr>
+  <tr align="left" valign="top"> 
+    <td bgcolor="#000000" height="2" colspan="2"><font color="#FFFFFF"><img src="file:///K|/Systems/sysweb/graphics/bar2.jpg" width="669" height="24" usemap="#Map" border="0"></font></td>
+  </tr>
+</table>
+
+
+<table width="100%" border="0" cellspacing="1" cellpadding="10" height="401">
+  <tr> 
+    <td width="31%" height="22" bgcolor="#3333CC"> 
+      <h1><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF">HOME</font></h1>
+    </td>
+    <td width="19%" height="22" bgcolor="#3333CC"> 
+      <div align="center"><a href="file:///K|/Systems/sysweb/helpdesk/form.html"><img src="file:///K|/Systems/sysweb/graphics/fault.GIF" width="114" height="60" border="0" alt="Log Helpdesk Fault"></a></div>
+    </td>
+    <td width="25%" height="22" bgcolor="#3333CC"> 
+      <div align="center"><a href="file:///K|/Systems/sysweb/develop/form.html"><img src="file:///K|/Systems/sysweb/graphics/devel.gif" width="143" height="60" border="0" alt="Log Development Request"></a></div>
+    </td>
+    <td width="25%" rowspan="3" bgcolor="#3333CC" align="left" valign="top"> 
+      <div align="left"> 
+        <p><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><b>Last 
+          News&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></font></p>
+        <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>News 
+          1</b></font></p>
+        <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">News 
+          2</font></b></p>
+        <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">News 
+          3</font></b></p>
+        <p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">News 
+          4</font></b></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><br>
+          <br>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr> 
+    <td height="114" align="left" valign="top" colspan="3"> <!-- #BeginEditable "Top%20box" -->{Top 
+      box}<!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td height="2" align="center" valign="top" colspan="3"><!-- #BeginEditable "bottom%20box" -->{bottom 
+      box}<!-- #EndEditable --></td>
+  </tr>
+</table>
+<map name="Map"> 
+  <area shape="rect" coords="55,2,139,25" href="file:///K|/Systems/sysweb/aboutus/index.html" alt="About Us" title="About Us">
+  <area shape="rect" coords="139,1,220,26" href="file:///K|/Systems/sysweb/training/index.html" alt="Training" title="Training">
+  <area shape="rect" coords="220,0,298,25" href="file:///K|/Systems/sysweb/services/index.html" alt="Services" title="Services">
+  <area shape="rect" coords="297,1,430,25" href="file:///K|/Systems/sysweb/documentation/index.html" alt="Documentation" title="Documentation">
+  <area shape="rect" coords="429,1,522,24" href="/support2/index.html" alt="Feedback" title="Feedback">
+  <area shape="rect" coords="522,1,677,24" href="file:///K|/Systems/sysweb/humour/index.html" alt="Systems' Humour" title="Systems' Humour">
+</map>
+<map name="Map2"> 
+  <area shape="rect" coords="1,1,123,24" href="http://www.intranet.lib.ed.ac.uk/" alt="Intranet" title="Intranet">
+  <area shape="rect" coords="122,2,242,23" href="http://www.lib.ed.ac.uk" alt="Library Online" title="Library Online">
+  <area shape="rect" coords="242,2,304,24" href="http://www.ed.ac.uk" alt="Edinburgh University" title="Edinburgh University">
+</map>
+</body>
+</html>

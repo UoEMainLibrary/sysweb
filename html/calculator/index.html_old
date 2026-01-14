@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Course Collections calculator</title>
+  <link rel="stylesheet" href="course_collections_calculator.css">
+  <script type="text/javascript" src="course_collections_calculator.js"></script>
+</head>
+<body>
+<h1>Course Collections calculator</h1>
+
+<div class="form">
+    <div id="resultsBox">
+    </div>
+  <form name="acquisitions_tool_form" id="acquisitions_tool_form">
+    <h2>Number of students</h2>
+      <input type="number" id="number_of_students" name="number_of_students">
+    <h2>Current number of copies</h2>
+      <input type="number" id="number_of_copies" name="number_of_copies">
+    <h2>Priority level</h2>
+        <input type="submit" value="Essential" onclick="return essential();"<br>
+        <input type="submit" value="Recommended" onclick="return recommended();"<br>
+        <input type="submit" value="Further reading" onclick="return further();"<br>
+    </form>
+  </div>
+</body>
+</html>

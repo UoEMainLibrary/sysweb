@@ -1,0 +1,16 @@
+{
+ "Occupancy": 
+ {
+  "Location": "MainLibrary",
+  "Date": "20/08/2018",
+  "Time": "17:50",
+  "Threshold": "amber",
+  "Level": "stable",
+
+  "LocationENUM": [ "MainLibrary" ],
+  "DateFORMAT": "dd/MM/yyyy",
+  "TimeFORMAT": "HH:mm",
+  "ThresholdENUM": [ "green", "amber", "red", "purple" ],
+  "LevelENUM": [ "decreasing", "stable", "increasing" ]
+ }
+}
